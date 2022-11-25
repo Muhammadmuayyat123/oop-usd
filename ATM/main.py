@@ -1,3 +1,7 @@
+#MUHAMMAD MUAYYAT SABIR
+#D0221114
+#Informatika H
+
 #pin & saldo in file pin.txt
 file = "pin.txt"
 data = open(file, "r")
